@@ -4,7 +4,7 @@ Annotation Dataset For Human Noise Removal
 異なる2つの現場で3次元計測した点群データに人間点群のみをアノテーションしたデータです。  
 This is 3D measurement point cloud data from two different sites, annotated only with human point clouds.
 
-<img width="50%" height="50%" alt="Fig7R" src="https://github.com/user-attachments/assets/acad630f-41dd-4c61-92e2-efca132d5955" />
+<img width="30%" height="30%" alt="Fig7R" src="https://github.com/user-attachments/assets/acad630f-41dd-4c61-92e2-efca132d5955" />
 
 本データセットは、取得したカメラ画像に映る人物を対象としていますが、アノテーションの付与には以下の基準を設けております。  
 While this dataset targets individuals appearing in the captured camera images, the following criteria have been established for applying annotations:  
