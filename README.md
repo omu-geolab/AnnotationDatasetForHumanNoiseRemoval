@@ -4,6 +4,13 @@ Annotation Dataset For Human Noise Removal
 異なる2つの現場で3次元計測した点群データに人間点群のみをアノテーションしたデータです。  
 This is 3D measurement point cloud data from two different sites, annotated only with human point clouds.
 
+本データセットは、取得したカメラ画像に映る人物を対象としていますが、アノテーションの付与には以下の基準を設けております。  
+- アノテーション対象： 視野角内で静止している人物  
+- アノテーション対象外： 視野角内で移動している人物（移動体）  
+While this dataset targets individuals appearing in the captured camera images, the following criteria have been established for applying annotations:  
+- Annotation Target: Individuals who are stationary within the field of view.  
+- Annotation Exclusion: Individuals who are moving within the field of view (treated as moving objects).  
+
 ### ライセンス / License
 CC BY-SA 4.0
 
