@@ -18,3 +18,22 @@ CC BY-SA 4.0
 ### チーム / Team
 大阪公立大学大学院 情報学研究科 学際情報学専攻 [吉田大介研究室](https://www.omu.ac.jp/i/geo/)（小村風我）  
 Daisuke Yoshida Laboratory, Department of Interdisciplinary Informatics, Graduate School of Informatics, Osaka Metropolitan University
+
+### 📝 Citation / 引用
+If you find this code or dataset useful for your research, please cite our paper:
+
+> Komura, F.; Yoshida, D.; Ueda, R. Geometry-Aware Human Noise Removal from TLS Point Clouds via 2D Segmentation Projection. *Sensors* **2026**, *26*, 1237. https://doi.org/10.3390/s26041237
+
+```bibtex
+@article{komura2026geometry,
+  title={Geometry-Aware Human Noise Removal from TLS Point Clouds via 2D Segmentation Projection},
+  author={Komura, Fuga and Yoshida, Daisuke and Ueda, Ryosei},
+  journal={Sensors},
+  volume={26},
+  number={4},
+  pages={1237},
+  year={2026},
+  publisher={MDPI},
+  doi={10.3390/s26041237},
+  url={[https://www.mdpi.com/1424-8220/26/4/1237](https://www.mdpi.com/1424-8220/26/4/1237)}
+}
